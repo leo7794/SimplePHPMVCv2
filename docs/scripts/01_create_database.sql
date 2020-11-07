@@ -1,3 +1,3 @@
-CREATE SCHEMA `demoalgorith` ;
-CREATE USER 'demouser'@'%' IDENTIFIED BY 'carm3l1t4s';
-GRANT ALL ON demoalgorith.* TO 'demouser'@'%';
+CREATE SCHEMA `nw202003` ;
+CREATE USER 'dzavala'@'nw202003' IDENTIFIED BY 'l0fihp';
+GRANT ALL PRIVILEGES ON nw202003.* TO 'dzavala'@'%' IDENTIFIED BY 'l0fihp'
